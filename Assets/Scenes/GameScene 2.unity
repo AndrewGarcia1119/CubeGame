@@ -332,7 +332,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   firstEventTrigger: {fileID: 1004980390}
   dotCanvas: {fileID: 1927085061}
-  completeObjectiveSound: {fileID: 8300000, guid: 283b8ad6daf299947a960cb696d0a397, type: 3}
+  completeObjectiveSound: {fileID: 8300000, guid: 55ed351071ee5234c89c32050fe9480f, type: 3}
   player: {fileID: 4207293388124176}
 --- !u!4 &111092064
 Transform:
@@ -1861,7 +1861,7 @@ MonoBehaviour:
     waitTime: 2.5
   shouldTriggerEvent: 1
   scareCanvas: {fileID: 775868811}
-  scareSound: {fileID: 8300000, guid: e15a25a953141634ca68d74d72921748, type: 3}
+  scareSound: {fileID: 8300000, guid: 4c706150563a0c5438f078ee697080a7, type: 3}
   scareTime: 0.6
 --- !u!4 &1896071307 stripped
 Transform:
@@ -2583,7 +2583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec72980442fddac4d86e75ab24b4d027, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sensitivity: 1
+  sensitivity: 0.3
   smoothing: 1
   character: {fileID: 4207293388124176}
 --- !u!114 &114963311779891748
